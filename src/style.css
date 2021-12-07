@@ -1,0 +1,67 @@
+h1 {
+  display: block;
+  text-align: center;
+  font-size: 48px;
+  font-family: "Sriracha", cursive;
+  margin-top: 30px;
+}
+h2 {
+  display: block;
+  text-align: center;
+  font-size: 24px;
+  font-family: "kalam", cursive;
+}
+.container {
+  margin: 40px auto;
+  border: solid 1px;
+  border-radius: 30px;
+  border-color: rgb(121, 194, 208);
+  padding: 0;
+  background: #e3f6f5;
+  max-width: 600px;
+}
+
+.search-box {
+  display: block;
+  margin: 30px auto;
+  border-radius: 5px;
+  box-shadow: 5px 5px 2px 1px rgba(0, 86, 137, 0.2);
+}
+.submit {
+  display: block;
+  margin: 30px auto;
+  border-radius: 5px;
+  box-shadow: 5px 5px 2px 1px rgba(0, 86, 137, 0.2);
+}
+.search-engine {
+  display: block;
+  margin: 0 auto;
+}
+.row {
+  text-align: center;
+  margin-top: 30px;
+}
+.col-2 {
+  border: solid 1px;
+  border-radius: 15px;
+  border-color: rgb(121, 194, 208);
+  margin: 1.5px;
+  padding: 0;
+  font-size: 16px;
+  background: #bae8e8;
+  box-shadow: 5px 5px 2px 1px rgba(0, 86, 137, 0.2);
+}
+.col-1 {
+  margin: 0;
+  padding: 0;
+}
+.footnote {
+  text-align: center;
+  font-size: 12px;
+}
+.dayForecast {
+  font-weight: bold;
+}
+.name {
+  font-family: kalam;
+}
